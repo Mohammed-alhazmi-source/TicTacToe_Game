@@ -29,7 +29,16 @@
 ---
 
 ## واجهات اللعبة
+### Game Menu
+![MainMenu](screenshots/GameMenu.png)
 
+### Window Play Your Self
+![Play Your Self](screenshots/WindowPlayXWithO.png)
+
+### Window Play With Computer
+![Play With Computer](screenshots/WindowPlayXWithComputer.png)
+
+---
 
 ## 📬 المطور
 
