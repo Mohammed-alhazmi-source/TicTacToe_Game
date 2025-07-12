@@ -28,5 +28,5 @@
 
 ---
 
-المطور : محمد أحمد أحمد صلاح الهزمي
-ايميل : alhazmimohammed663@gmail.com
+-المطور : محمد أحمد أحمد صلاح الهزمي
+-ايميل : alhazmimohammed663@gmail.com
